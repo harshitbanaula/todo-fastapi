@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+tortoise-orm
+pydantic
+tortoise.contrib.pydantic
+tortoise-orm
